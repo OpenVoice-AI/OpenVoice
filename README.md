@@ -6,7 +6,7 @@
 [Website](https://research.myshell.ai/open-voice) <br> <br>
 
 <p align="center">
-  <a href="https://deeplivecam.net/index.php/quickstart">
+  <a href="https://openvoice-ai.github.io/OpenVoice/">
     <img src="resources/Download.png" width="280" alt="Download">
   </a>
 </p>
